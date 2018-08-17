@@ -1,0 +1,8 @@
+name: Rgba_to_rgb
+description: Conversion of rbga color to rbg.
+version: 1.0.0
+homepage: https://github.com/StekolschikovV/Rgba_to_rgb
+author: Vadim Tsushkodim Tsushko <vas@infovizion.ru>
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
